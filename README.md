@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrinivasSankoji
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Angular and AWS
+- 👀 I’m interested in Developing Web Application using Angular and Java.
+- 🌱 I’m currently learning Angular and AWS.
 - 📫 Reach me on srinivaschary.chary@gmail.com
 
 <!---
