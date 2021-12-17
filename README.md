@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SrinivasSankoji
-- 👀 I’m interested in Developing Web Application using Angular and Java.
+- 👀 I’m interested in Developing Micro Services using Spring Boot and Java8.
 - 🌱 I’m currently learning DevOps and AWS.
 - 📫 Reach me on srinivaschary.chary@gmail.com
 
