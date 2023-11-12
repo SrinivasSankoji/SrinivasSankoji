@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrinivasSankoji
-- 👀 I’m interested in Learning React,Micro Services,Design Patterns,Low level Design.
-- 🌱 I’m currently learning DevOps and AWS.
+- 👀 I’m interested in developing Web Applications.
+- Interesetd in React,Spring Boot,Micro Services.
 - 📫 Reach me on srinivaschary.chary@gmail.com
 
 <!---
